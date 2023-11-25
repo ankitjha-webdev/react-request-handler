@@ -15,7 +15,7 @@ const Users = async () => {
             </div>
         ))}
     </>
-// There are lot to do!!!
+
 }
 
 export default Users;
